@@ -1,0 +1,14 @@
+/Users/diana/Downloads/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4
+/Users/diana/Downloads/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.deps.json
+/Users/diana/Downloads/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.runtimeconfig.json
+/Users/diana/Downloads/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.dll
+/Users/diana/Downloads/Tutorial5/Tutorial4/bin/Debug/net8.0/Tutorial4.pdb
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.CoreCompileInputs.cache
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.dll
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/refint/Tutorial4.dll
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.pdb
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/Tutorial4.genruntimeconfig.cache
+/Users/diana/Downloads/Tutorial5/Tutorial4/obj/Debug/net8.0/ref/Tutorial4.dll
